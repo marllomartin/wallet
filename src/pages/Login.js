@@ -3,7 +3,7 @@ import { connect } from 'react-redux';
 import PropTypes from 'prop-types';
 import { saveEmail } from '../actions';
 import '../styles/Login/styles.css';
-import wallet from '../wallet-animate.svg';
+import login from '../login-animate.svg';
 
 class Login extends React.Component {
   constructor() {
@@ -47,7 +47,7 @@ class Login extends React.Component {
     return (
       <div className="login-page">
         <div className="login-image">
-          <img src={ wallet } alt="Carteira" />
+          <img src={ login } alt="Carteira" />
         </div>
 
         <div className="login-card">
