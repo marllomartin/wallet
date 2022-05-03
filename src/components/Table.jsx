@@ -7,7 +7,7 @@ class Table extends Component {
   render() {
     const { expenses, deleteExpenses } = this.props;
     return (
-      <div>
+      <div className="wallet-table">
         <table>
           <thead>
             <tr>

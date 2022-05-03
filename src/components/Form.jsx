@@ -10,7 +10,7 @@ class Form extends Component {
 
     this.state = {
       id: 0,
-      value: 0,
+      value: '',
       currency: 'USD',
       method: 'Dinheiro',
       tag: 'Alimentação',
@@ -57,23 +57,23 @@ class Form extends Component {
     const currencies = Object.keys(exchangeRates);
 
     return (
-      <div>
+      <div className="wallet-form">
         <form onSubmit={ this.submitExpense }>
-          <label htmlFor="value">
-            Despesa:
+            <p>Despesa:</p>
             <input
               name="value"
               id="value"
               type="number"
+              min="1"
               data-testid="value-input"
               value={ value }
               onChange={ this.handleChange }
+              placeholder={`Valor em ${ this.state.currency }`}
+              autoComplete="off"
               required
             />
-          </label>
 
-          <label htmlFor="description">
-            Descrição:
+            <p>Descrição:</p>
             <input
               name="description"
               id="description"
@@ -82,12 +82,12 @@ class Form extends Component {
               value={ description }
               onChange={ this.handleChange }
               autoComplete="off"
+              spellCheck="off"
+              placeholder="Breve descrição"
               required
             />
-          </label>
 
-          <label htmlFor="currency">
-            Moeda:
+            <p>Moeda:</p>
             <select
               name="currency"
               id="currency"
@@ -106,10 +106,8 @@ class Form extends Component {
                 </option>
               ))}
             </select>
-          </label>
 
-          <label htmlFor="payment-method">
-            Método de Pagamento:
+            <p>Método de Pagamento:</p>
             <select
               name="method"
               id="payment-method"
@@ -122,10 +120,8 @@ class Form extends Component {
               <option value="Cartão de crédito">Cartão de crédito</option>
               <option value="Cartão de débito">Cartão de débito</option>
             </select>
-          </label>
 
-          <label htmlFor="tag">
-            Categoria:
+            <p>Categoria:</p>
             <select
               name="tag"
               id="tag"
@@ -140,9 +136,8 @@ class Form extends Component {
               <option value="Transporte">Transporte</option>
               <option value="Saúde">Saúde</option>
             </select>
-          </label>
 
-          <button type="submit">Adicionar despesa</button>
+          <button className="wallet-form-btn" type="submit">Adicionar despesa</button>
         </form>
       </div>
     );
