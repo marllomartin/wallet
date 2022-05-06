@@ -57,8 +57,7 @@ class Form extends Component {
     const currencies = Object.keys(exchangeRates);
 
     return (
-      <div className="wallet-form">
-        <form onSubmit={ this.submitExpense }>
+        <form className="wallet-form" onSubmit={ this.submitExpense }>
           <p>Despesa:</p>
           <input
             name="value"
@@ -68,6 +67,7 @@ class Form extends Component {
             value={ value }
             onChange={ this.handleChange }
             placeholder={ `Valor em ${ this.state.currency }` }
+            step=".01"
             autoComplete="off"
             required
           />
@@ -133,7 +133,6 @@ class Form extends Component {
             Adicionar despesa
           </button>
         </form>
-      </div>
     );
   }
 }
