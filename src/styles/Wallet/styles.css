@@ -6,7 +6,7 @@ body {
 
 .wallet-page {
   width: 100%;
-  height: 87vh;
+  height: 80vh;
   margin-top: 6.5vh;
   display: flex;
   justify-content: center;
@@ -15,7 +15,6 @@ body {
 
 .wallet-card {
   width: 20%;
-  height: 110%;
   display: flex;
   justify-content: flex-start;
   align-items: center;
@@ -24,7 +23,8 @@ body {
   background: #ffff;
   border-radius: 30px;
   box-shadow: 0px 7px 20px #00000056;
-  margin: 4vh;
+  margin-top: 7vh;
+  margin-left: 4vh;
 }
 
 .wallet-header {
@@ -34,6 +34,7 @@ body {
 }
 
 .wallet-image {
+  text-align: center;
   width: 25vh;
   margin-top: 2vw;
 }
@@ -50,7 +51,7 @@ body {
   color: #3d495c;
   font-weight: 200;
   margin: 10px;
-  margin-bottom: 15px;
+  margin-bottom: 17px;
   text-transform: uppercase;
   letter-spacing: 3px;
   max-width: 255px;
@@ -68,17 +69,17 @@ body {
 }
 
 .wallet-header span {
-  color: #3d495c;
+  color: #239269;
   font-weight: 600;
+  font-size: 20px;
   margin-left: -8px;
   text-transform: uppercase;
   letter-spacing: 0.5px;
 }
 
 .wallet-form {
-  width: 100%;
-  height: 100%;
   display: flex;
+  flex-direction: column;
 }
 
 .wallet-form p {
@@ -95,7 +96,7 @@ body {
 
 .wallet-form input {
   width: 100%;
-  height: 6.5%;
+  height: 28px;
   border: none;
   border-radius: 30px;
   background: #ffff;
@@ -119,7 +120,7 @@ body {
 
 .wallet-form select {
   width: 100%;
-  height: 6.5%;
+  height: 28px;
   border: none;
   border-radius: 30px;
   background: #ffff;
@@ -137,10 +138,10 @@ body {
 }
 
 .wallet-form-btn {
-  width: 80%;
-  height: 9%;
+  height: 45px;
   margin: 25px;
-  margin-top: 5vh;
+  margin-top: 4vh;
+  margin-bottom: 4vh;
   border: none;
   border-radius: 30px;
   outline: none;
@@ -165,11 +166,12 @@ body {
   height: 100%;
   width: 100%;
   margin-top: -8.5vh;
+  margin-left: 3vh;
   display: flex;
 }
 
 .table-card {
-  width: 165%;
+  width: 145%;
   margin-bottom: 2vh;
   background-color: #ffff;
   border-radius: 30px;
