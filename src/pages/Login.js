@@ -61,7 +61,6 @@ class Login extends React.Component {
               name="email"
               value={ email }
               type="email"
-              data-testid="email-input"
               id="email"
               placeholder="Email"
               autoComplete="off"
@@ -74,7 +73,6 @@ class Login extends React.Component {
               name="password"
               value={ password }
               type="password"
-              data-testid="password-input"
               id="password"
               placeholder="Senha"
               onChange={ this.handleChange }
@@ -84,7 +82,6 @@ class Login extends React.Component {
           <button
             className="login-btn"
             type="submit"
-            data-testid="login-button"
             name="login-button"
             disabled={ this.validateLogin(email, password) }
             onClick={ this.submitLogin }

@@ -65,7 +65,6 @@ class Form extends Component {
             id="value"
             type="number"
             min="1"
-            data-testid="value-input"
             value={ value }
             onChange={ this.handleChange }
             placeholder={ `Valor em ${ this.state.currency }` }
@@ -78,7 +77,6 @@ class Form extends Component {
             name="description"
             id="description"
             type="text"
-            data-testid="description-input"
             value={ description }
             onChange={ this.handleChange }
             autoComplete="off"
@@ -92,13 +90,12 @@ class Form extends Component {
           <select
             name="currency"
             id="currency"
-            data-testid="currency-input"
             value={ currency }
             onChange={ this.handleChange }
             required
           >
             {currencies.map((name, index) => (
-              <option data-testid={ name } value={ name } key={ index }>
+              <option value={ name } key={ index }>
                 { name }
               </option>
             ))}
@@ -108,7 +105,6 @@ class Form extends Component {
           <select
             name="method"
             id="payment-method"
-            data-testid="method-input"
             value={ method }
             onChange={ this.handleChange }
             required
@@ -122,7 +118,6 @@ class Form extends Component {
           <select
             name="tag"
             id="tag"
-            data-testid="tag-input"
             value={ tag }
             onChange={ this.handleChange }
             required

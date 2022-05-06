@@ -22,9 +22,9 @@ class Header extends Component {
 
           <p className="wallet-total">Total: </p>
           {!total || total === "-0.00" ? (
-            <span data-testid="total-field">R$ 0.00</span>
+            <span>R$ 0.00</span>
           ) : (
-            <span data-testid="total-field">R$ { total }</span>
+            <span>R$ { total }</span>
           )}
 
           <hr />
