@@ -27,7 +27,7 @@ class Table extends Component {
             <div className="table-card">
               <tr key={ expense.id }>
                 <td className="table-body value-column">
-                  <p>{ expense.value }</p>
+                  <p>{ Number(expense.value).toFixed(2) }</p>
                 </td>
 
                 <hr />
