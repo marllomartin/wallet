@@ -3,9 +3,9 @@ import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import wallet from '../wallet-animate.svg';
 
-class Header extends Component {
-  render() {
-    const { email, total } = this.props;
+class Header extends Component { 
+  render() { 
+    const {  email, total  } = this.props;
 
     return (
       <div className='wallet-header'>
@@ -15,21 +15,24 @@ class Header extends Component {
           </div>
 
           <h2>Wallet</h2>
+
           <hr />
-          <p className="wallet-email">{email}</p>
+
+          <p className="wallet-email">{ email }</p>
+
           <p className="wallet-total">Total: </p>
-          {total ? (
-            <span data-testid="total-field">{total}</span>
+          {!total || total === "-0.00" ? (
+            <span data-testid="total-field">R$ 0.00</span>
           ) : (
-            <span data-testid="total-field"> 0.00 </span>
+            <span data-testid="total-field">R$ { total }</span>
           )}
-          <span data-testid="header-currency-field"> BRL </span>
+
           <hr />
         </header>
       </div>
     );
-  }
-}
+   }
+ }
 
 const mapStateToProps = (state) => ({
   email: state.user.email,
