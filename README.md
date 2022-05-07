@@ -37,3 +37,14 @@ O objetivo do projeto foi demonstrar de forma prática os seguintes conceitos ap
   * Funcionalidade das actions assíncronas na aplicação React que utilizam o Redux;
 
   * Estilização de tabelas;
+
+
+
+## Screenshots
+Tela de Login
+
+![Login](https://i.imgur.com/Fo6KVuX.png)
+
+Tela de Despesas
+
+![Wallet](https://i.imgur.com/0kHFwUd.png) 
