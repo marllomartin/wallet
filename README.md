@@ -1,16 +1,20 @@
 
 # Project Wallet
 
-Projeto de uma carteira de controle de gastos com conversor de moedas feito 
-enquanto eu estudava na Trybe.
+Projeto de uma carteira de controle de gastos com conversor de moedas dinâmico feito 
+enquanto eu estudava na [Trybe](https://www.betrybe.com/).
+
+Você pode visualizar o projeto [aqui](https://wallet-five-tau.vercel.app/).
+
+
 ## Funcionalidades
-Nesse projeto, o usuário é capaz de:
+Neste projeto, o usuário é capaz de:
 
-  - Adicionar e remover um gasto;
+  - Adicionar e remover um gasto, informando suas categorias;
 
-  - Visualizar uma tabela com seus gastos;
+  - Visualizar uma tabela com seus gastos e suas respectivas categorias de forma organizada;
 
-  - Visualizar o total de gastos convertidos da moeda escolhida para Reais de forma dinãmica;
+  - Visualizar o total de gastos convertidos da moeda escolhida para Reais dinamicamente;
 
 
 
