@@ -34,7 +34,7 @@ body {
 
 .wallet-image {
   text-align: center;
-  width: 25vh;
+  width: 100%;
   margin-top: 0.5vw;
 }
 
@@ -48,7 +48,7 @@ body {
 
 .wallet-email {
   color: #3d495c;
-  font-weight: 200;
+  font-weight: 500;
   margin: 10px;
   margin-bottom: 17px;
   text-transform: uppercase;
@@ -252,11 +252,14 @@ table {
 
 
 .close-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
  background-color: #f47171;
  border-radius: 30px;
  width: 45px;
  height: 45px;
- margin-left: 10px;
+ margin-left: 20px;
  margin-top: 2px;
  cursor: pointer;
 }
@@ -269,5 +272,6 @@ table {
   font-size: 40px;
   font-weight: bold;
   color: #ffff;
-  margin-right: 1.5px;
+  margin-top: 1px;
+  margin-right: 2px;
 }
