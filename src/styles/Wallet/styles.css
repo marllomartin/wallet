@@ -22,7 +22,7 @@ body {
   background: #ffff;
   border-radius: 30px;
   box-shadow: 0px 7px 20px #00000056;
-  margin-top: 1vh;
+  margin-top: 2vh;
   margin-left: 4vh;
 }
 
@@ -35,7 +35,7 @@ body {
 .wallet-image {
   text-align: center;
   width: 25vh;
-  margin-top: 2vw;
+  margin-top: 0.5vw;
 }
 
 .wallet-header h2 {
@@ -164,7 +164,7 @@ body {
 .container {
   height: 100%;
   width: 100%;
-  margin-top: 1vh;
+  margin-top: 2vh;
   margin-left: 4vh;
   margin-right: 4vh;
 }
