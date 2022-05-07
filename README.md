@@ -4,6 +4,8 @@
 Projeto de uma carteira de controle de gastos com conversor de moedas dinâmico feito 
 enquanto eu estudava na [Trybe](https://www.betrybe.com/).
 
+<img src=https://i.imgur.com/l1nbqw8.png width="200px" >
+
 Você pode visualizar o projeto [aqui](https://wallet-five-tau.vercel.app/).
 
 
@@ -41,10 +43,13 @@ O objetivo do projeto foi demonstrar de forma prática os seguintes conceitos ap
 
 
 ## Screenshots
-Tela de Login
 
-![Login](https://i.imgur.com/Fo6KVuX.png)
+<details>
+ <summary>Tela de Login</summary>
+ <img src=https://i.imgur.com/Fo6KVuX.png width="800px" >
+</details>
 
-Tela de Despesas
-
-![Wallet](https://i.imgur.com/0kHFwUd.png) 
+<details>
+ <summary>Tela de Despesas</summary>
+ <img src=https://i.imgur.com/0kHFwUd.png width="800px" >
+</details>
