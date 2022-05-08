@@ -3,7 +3,7 @@ import { connect } from 'react-redux';
 import PropTypes from 'prop-types';
 import { saveEmail } from '../actions';
 import '../styles/Login/styles.css';
-import login from '../login-animate.svg';
+import login from '../animations/login-animate.svg';
 
 class Login extends React.Component {
   constructor() {

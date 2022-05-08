@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
-import wallet from '../wallet-animate.svg';
+import wallet from '../animations/wallet-animate.svg';
 
 class Header extends Component { 
   render() { 
