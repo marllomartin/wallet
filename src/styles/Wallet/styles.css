@@ -60,7 +60,7 @@ body {
 
 .wallet-total {
   color: #3d495c;
-  font-weight: 200;
+  font-weight: 500;
   margin: 10px;
   margin-bottom: 5px;
   text-transform: uppercase;
@@ -250,28 +250,19 @@ table {
   width: 40%;
 }
 
-
-.close-div {
-  display: flex;
-  align-items: center;
-  justify-content: center;
- background-color: #f47171;
- border-radius: 30px;
- width: 45px;
- height: 45px;
- margin-left: 20px;
- margin-top: 2px;
- cursor: pointer;
-}
-
-.close-div:hover {
-  background-color: #f96767;
-}
-
 .close-btn {
+  width: 45px;
+  height: 45px;
+  background-color: #f47171;
+  border-radius: 30px;
   font-size: 40px;
   font-weight: bold;
   color: #ffff;
-  margin-top: 1px;
-  margin-right: 2px;
+  cursor: pointer;
+  margin: 2.5px;
+  margin-left: 23px;
+}
+
+.close-btn:hover {
+  background-color: #f96767;
 }
