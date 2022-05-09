@@ -63,6 +63,7 @@ class Login extends React.Component {
               type="email"
               id="email"
               placeholder="Email"
+              spellCheck="off"
               autoComplete="off"
               onChange={ this.handleChange }
             />
