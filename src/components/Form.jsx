@@ -40,7 +40,7 @@ class Form extends Component {
     this.requestExchangeRates();
     this.setState({
       id: id + 1,
-      value: 0,
+      value: '',
       description: '',
     });
   }
