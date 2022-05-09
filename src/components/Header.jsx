@@ -27,7 +27,7 @@ class Header extends Component {
             <span>R$ { total }</span>
           )}
 
-          <hr />
+          <hr className="hide"/>
         </header>
       </div>
     );
