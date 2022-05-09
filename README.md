@@ -1,10 +1,10 @@
 
 # Project Wallet
 
-Projeto de uma carteira de controle de gastos com conversor de moedas dinâmico feito 
+Projeto de uma carteira de controle de despesas com conversor de moedas dinâmico feito 
 enquanto eu estudava na [Trybe](https://www.betrybe.com/).
 
-<img src=https://i.imgur.com/l1nbqw8.png width="200px" >
+![Wallet](https://i.imgur.com/VMnczrC.gif) 
 
 Você pode visualizar o projeto [aqui](https://wallet-five-tau.vercel.app/).
 
@@ -53,3 +53,11 @@ O objetivo do projeto foi demonstrar de forma prática os seguintes conceitos ap
  <summary>Tela de Despesas</summary>
  <img src=https://i.imgur.com/0kHFwUd.png width="800px" >
 </details>
+
+<details>
+  <summary>Tela de Página Não Encontrada</summary>
+  <img src=https://i.imgur.com/95h1sR1.png width="800px">
+</details>
+
+## Referências
+Vetores animados feitos pelo [StorySaver](https://storyset.com/).
