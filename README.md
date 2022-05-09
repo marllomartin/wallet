@@ -1,10 +1,10 @@
 
 # Project Wallet
 
-Projeto de uma carteira de controle de despesas com conversor de moedas dinâmico feito 
+Projeto de uma carteira de controle de despesas com conversor de moedas dinâmico feito
 enquanto eu estudava na [Trybe](https://www.betrybe.com/).
 
-![Wallet](https://i.imgur.com/VMnczrC.gif) 
+![Login](https://github.com/marllomartin/wallet/blob/master/src/login.gif) 
 
 Você pode visualizar o projeto [aqui](https://wallet-five-tau.vercel.app/).
 
@@ -18,7 +18,7 @@ Neste projeto, o usuário é capaz de:
 
   - Visualizar o total de gastos convertidos da moeda escolhida para Reais dinamicamente;
 
-
+![Wallet](https://github.com/marllomartin/wallet/blob/master/src/wallet.gif)
 
 ## Aprendizados
 
@@ -61,3 +61,5 @@ O objetivo do projeto foi demonstrar de forma prática os seguintes conceitos ap
 
 ## Referências
 Vetores animados feitos pelo [StorySaver](https://storyset.com/).
+
+<img src=https://i.imgur.com/l1nbqw8.png width="250px" >
