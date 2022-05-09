@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import notFound from '../animations/notfound-animate.svg';
 import '../styles/NotFound/styles.css';
 
