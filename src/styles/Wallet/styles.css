@@ -252,16 +252,17 @@ table {
 }
 
 .close-btn {
-  width: 45px;
-  height: 45px;
   background-color: #f47171;
-  border-radius: 30px;
-  font-size: 40px;
-  font-weight: bold;
-  color: #ffff;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  font-size: 25px;
+  font-weight: 700;
+  text-align: center;
+  text-decoration: none;
+  margin: 0px;
   cursor: pointer;
-  margin: 2.5px;
-  margin-left: 23px;
+  border-radius: 50%;
 }
 
 .close-btn:hover {
@@ -293,7 +294,7 @@ table {
 
   .wallet-card {
     display: flex;
-    justify-content:space-between;
+    justify-content: space-between;
     flex-direction: row;
     padding: 0px 22px;
     margin-left: 0;
@@ -315,8 +316,5 @@ table {
 
   .container {
     margin-top: 3vh;
-  }
-
-  .table-card {
   }
 }

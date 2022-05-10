@@ -75,7 +75,7 @@ class Table extends Component {
                 <hr />
 
                 <td className="table-body delete-column" onClick={ () => (deleteExpenses(expense)) }>
-                <p className="close-btn">&times;</p>
+                <button className="close-btn">&times;</button>
                 </td>
               </tr>
             </div>
