@@ -40,7 +40,50 @@ O objetivo do projeto foi demonstrar de forma prática os seguintes conceitos ap
 
   * Estilização de tabelas;
 
+## Tecnologias Utilizadas
 
+<a href="https://www.w3schools.com/html/">
+<img 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+     alt="HTML5"
+     width="30"
+     height="30"
+/>
+</a>
+<a href="https://www.w3schools.com/css/">
+<img
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+     alt="CSS3"
+     width="30"
+     height="30"
+/>   
+</a>
+<a href="https://javascript.com/">
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+    alt="JavaScript"
+    width="30"
+    height="30" 
+/>
+</a>
+<a href="https://reactjs.org/">
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    alt="React"
+    href="https://reactjs.org/"
+    width="30"
+    height="30"  
+/>
+</a>
+<a href="https://reduxjs.org/">
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+    alt="Redux"
+    width="30"
+    height="30"
+/>
+</a>
+</div>
 
 ## Screenshots
 
