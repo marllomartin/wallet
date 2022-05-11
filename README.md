@@ -1,12 +1,15 @@
 
 # Project Wallet
 
+## Sobre
 Projeto de uma carteira de controle de despesas com conversor de moedas dinâmico feito
 enquanto eu estudava na [Trybe](https://www.betrybe.com/).
 
-![Login](https://github.com/marllomartin/wallet/blob/master/src/login.gif) 
-
 Você pode visualizar o projeto [aqui](https://wallet-five-tau.vercel.app/).
+
+![Login](https://github.com/marllomartin/wallet/blob/master/src/login.gif)
+
+<sup>Para logar, utilize um e-mail válido e uma senha de no mínimo 6 digitos.</sup>
 
 
 ## Funcionalidades
