@@ -5,8 +5,7 @@
 Projeto de uma carteira de controle de despesas com conversor de moedas dinâmico feito
 enquanto eu estudava na [Trybe](https://www.betrybe.com/).
 
-Você pode visualizar o projeto [aqui](https://trybewallet.vercel.app
-/).
+Você pode visualizar o projeto [aqui](https://trybewallet.vercel.app/).
 
 ![Login](https://github.com/marllomartin/wallet/blob/master/src/login.gif)
 
