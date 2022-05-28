@@ -92,17 +92,17 @@ O objetivo do projeto foi demonstrar de forma prática os seguintes conceitos ap
 
 <details>
  <summary>Tela de Login</summary>
- <img src=https://i.imgur.com/Fo6KVuX.png width="800px" >
+ <img src=https://i.imgur.com/A6gcnyP.png width="800px" >
 </details>
 
 <details>
  <summary>Tela de Despesas</summary>
- <img src=https://i.imgur.com/0kHFwUd.png width="800px" >
+ <img src=https://i.imgur.com/vfTn4uQ.png width="800px" >
 </details>
 
 <details>
   <summary>Tela de Página Não Encontrada</summary>
-  <img src=https://i.imgur.com/95h1sR1.png width="800px">
+  <img src=https://i.imgur.com/dTcuSHP.png width="800px">
 </details>
 
 ## Referências
