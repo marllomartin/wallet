@@ -106,6 +106,6 @@ O objetivo do projeto foi demonstrar de forma prática os seguintes conceitos ap
 </details>
 
 ## Referências
-Vetores animados por [StorySaver](https://storyset.com/).
+Vetores animados por [StorySet](https://storyset.com/).
 
 <img src=https://i.imgur.com/l1nbqw8.png width="250px" >
