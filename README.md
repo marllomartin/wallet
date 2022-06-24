@@ -47,43 +47,33 @@ O objetivo do projeto foi demonstrar de forma prática os seguintes conceitos ap
 
 <a href="https://www.w3schools.com/html/">
 <img 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+     src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=fff&logoWidth=25"
      alt="HTML5"
-     width="30"
-     height="30"
 />
 </a>
 <a href="https://www.w3schools.com/css/">
 <img
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+     src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=fff&logoWidth=25"
      alt="CSS3"
-     width="30"
-     height="30"
 />   
 </a>
 <a href="https://javascript.com/">
 <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+    src="https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330&logoWidth=25"
     alt="JavaScript"
-    width="30"
-    height="30" 
 />
 </a>
 <a href="https://reactjs.org/">
 <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    src="https://img.shields.io/badge/react-282C34?style=for-the-badge&logo=react&logoColor=69DAFB&logoWidth=25"
     alt="React"
-    href="https://reactjs.org/"
-    width="30"
-    height="30"  
+    href="https://reactjs.org/" 
 />
 </a>
 <a href="https://reduxjs.org/">
 <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+    src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff&logoWidth=20"
     alt="Redux"
-    width="30"
-    height="30"
 />
 </a>
 </div>
