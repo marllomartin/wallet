@@ -10,7 +10,7 @@ enquanto eu estudava na [Trybe](https://www.betrybe.com/).
 
 Você pode visualizar o projeto [aqui](https://trybewallet.vercel.app/).
 
-![Login](https://github.com/marllomartin/wallet/blob/master/src/login.gif)
+![Login](https://github.com/marllomartin/wallet/blob/master/public/login.gif)
 
 <sup>Para logar, utilize um e-mail válido e uma senha de no mínimo 6 digitos.</sup>
 
@@ -24,7 +24,7 @@ Neste projeto, o usuário é capaz de:
 
   - Visualizar o total de gastos convertidos da moeda escolhida para Reais dinamicamente;
 
-![Wallet](https://github.com/marllomartin/wallet/blob/master/src/wallet.gif)
+![Wallet](https://github.com/marllomartin/wallet/blob/master/public/wallet.gif)
 
 ## Aprendizados
 
