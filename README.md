@@ -97,4 +97,5 @@ Neste projeto, o usuário é capaz de:
 </details>
 
 ## Referências
+API de cotações em [AwesomeAPI](https://docs.awesomeapi.com.br/api-de-moedas)
 Vetores animados por [StorySet](https://storyset.com/).
