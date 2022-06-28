@@ -1,5 +1,8 @@
 
 # Project Wallet
+<div align="center">
+<img src=https://i.imgur.com/l1nbqw8.png width="200px">
+</div>
 
 ## Sobre
 Projeto de uma carteira de controle de despesas com conversor de moedas dinâmico feito
@@ -24,8 +27,6 @@ Neste projeto, o usuário é capaz de:
 ![Wallet](https://github.com/marllomartin/wallet/blob/master/src/wallet.gif)
 
 ## Aprendizados
-
-O objetivo do projeto foi demonstrar de forma prática os seguintes conceitos aprendidos durante o módulo de Front-End do curso:
 
   * Tratar os dados de uma API em aplicações React;
 
@@ -97,5 +98,3 @@ O objetivo do projeto foi demonstrar de forma prática os seguintes conceitos ap
 
 ## Referências
 Vetores animados por [StorySet](https://storyset.com/).
-
-<img src=https://i.imgur.com/l1nbqw8.png width="250px" >
