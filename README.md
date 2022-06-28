@@ -1,7 +1,7 @@
 
 # Project Wallet
 <div align="center">
-<img src=https://i.imgur.com/l1nbqw8.png width="200px">
+<img src=https://i.imgur.com/l1nbqw8.png width="250px">
 </div>
 
 ## Sobre
