@@ -42,7 +42,7 @@ Neste projeto, o usuário é capaz de:
 
   * Funcionalidade das actions assíncronas na aplicação React que utilizam o Redux;
 
-  * Estilização de tabelas;
+  * Estilização de tabelas e telas de login;
 
 ## Tecnologias Utilizadas
 
