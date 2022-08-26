@@ -42,6 +42,8 @@ Neste projeto, o usuário é capaz de:
 
   * Funcionalidade das actions assíncronas na aplicação React que utilizam o Redux;
 
+  * Utilização do Redux-Persist para que os dados manipulados pelo Redux fiquem gravados localmente;
+
   * Estilização de tabelas e telas de login;
 
 ## Tecnologias Utilizadas
