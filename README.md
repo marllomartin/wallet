@@ -4,7 +4,7 @@
 <img src=https://i.imgur.com/l1nbqw8.png width="250px">
 </div>
 
-## Sobre
+## About
 Expense control application with a dynamic currency converter developed in React using Redux while I studied at [Trybe](https://www.betrybe.com/).
 
 Deploy: [https://wallet-marllomartin.vercel.app/](https://wallet-marllomartin.vercel.app/).
