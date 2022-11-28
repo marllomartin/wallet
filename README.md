@@ -20,7 +20,7 @@ Deploy: [https://wallet-marllomartin.vercel.app/](https://wallet-marllomartin.ve
 
   - Visualize an organized table with all the expenses registered;
   
-  - Visualize the total expense converted from the selected currency to Reais dynamically;
+  - Visualize the total expense converted from the selected currency to Brazilian Real (BRL) dynamically;
 
 ![Wallet](https://github.com/marllomartin/wallet/blob/master/public/wallet.gif)
 
