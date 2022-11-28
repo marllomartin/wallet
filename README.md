@@ -5,48 +5,46 @@
 </div>
 
 ## Sobre
-Projeto de uma carteira de controle de despesas com conversor de moedas dinâmico feito
-enquanto eu estudava na [Trybe](https://www.betrybe.com/).
+Expense control application with a dynamic currency converter developed in React using Redux while I studied at [Trybe](https://www.betrybe.com/).
 
-Você pode visualizar o projeto [aqui](https://wallet-marllomartin.vercel.app/).
+Deploy: [https://wallet-marllomartin.vercel.app/](https://wallet-marllomartin.vercel.app/).
 
 ![Login](https://github.com/marllomartin/wallet/blob/master/public/login.gif)
 
-<sup>Para logar, utilize um e-mail válido e uma senha de no mínimo 6 digitos.</sup>
+<sup>In order to log-in, you need a valid email and a 6 digit password. Don't worry, these are just for studying purposes and won't be saved anywhere.</sup>
 
 
-## Funcionalidades
-Neste projeto, o usuário é capaz de:
+## Features
 
-  - Adicionar e remover um gasto, informando suas categorias;
+  - Add and remove an expense, informing its category, name and brief description;
 
-  - Visualizar uma tabela com seus gastos e suas respectivas categorias de forma organizada;
-
-  - Visualizar o total de gastos convertidos da moeda escolhida para Reais dinamicamente;
+  - Visualize an organized table with all the expenses registered;
+  
+  - Visualize the total expense converted from the selected currency to Reais dynamically;
 
 ![Wallet](https://github.com/marllomartin/wallet/blob/master/public/wallet.gif)
 
-## Aprendizados
+## Learnings
 
-  * Tratar os dados de uma API em aplicações React;
+  * Consuming API data in React applications;
+  
+  * Setting Redux Store in React applications;
 
-  * Configuração do Store Redux em aplicações React;
+  * Setting Redux Reducers in React applications;
+  
+  * Planning Redux Actions in React applications;
+  
+  * Setting Redux Dispatchers in React applications;
+  
+  * Connecting Redux to React components;
+  
+  * Functioning async Actions in Redux-based React applications;
+  
+  * Using Redux-Persist so the data can be saved on the browser localstorage;
 
-  * Configuração de Reducers no Redux em aplicações React;
+  * Styling tables and login screens using pure CSS;
 
-  * Planejamento das Actions no Redux em aplicações React;
-
-  * Organização dos Dispatchers no Redux em aplicações React;
-
-  * Conexão de Redux aos componentes React;
-
-  * Funcionalidade das actions assíncronas na aplicação React que utilizam o Redux;
-
-  * Utilização do Redux-Persist para que os dados manipulados pelo Redux fiquem gravados localmente;
-
-  * Estilização de tabelas e telas de login;
-
-## Tecnologias Utilizadas
+## Technologies Used
 
 <a href="https://www.w3schools.com/html/">
 <img 
@@ -84,22 +82,22 @@ Neste projeto, o usuário é capaz de:
 ## Screenshots
 
 <details>
- <summary>Tela de Login</summary>
+ <summary>Login Screen</summary>
  <img src=https://i.imgur.com/A6gcnyP.png width="800px" >
 </details>
 
 <details>
- <summary>Tela de Despesas</summary>
+ <summary>Expense Screen</summary>
  <img src=https://i.imgur.com/vfTn4uQ.png width="800px" >
 </details>
 
 <details>
-  <summary>Tela de Página Não Encontrada</summary>
+  <summary>Not Found Screen</summary>
   <img src=https://i.imgur.com/dTcuSHP.png width="800px">
 </details>
 
-## Referências
+## References
 
-Vetores animados por [StorySet](https://storyset.com/).
+Animated vectors from [StorySet](https://storyset.com/).
 
-API de cotações em [AwesomeAPI](https://docs.awesomeapi.com.br/api-de-moedas).
+Currency API from [AwesomeAPI](https://docs.awesomeapi.com.br/api-de-moedas).
