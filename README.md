@@ -5,7 +5,7 @@
 </div>
 
 ## About
-Expense control application with a dynamic currency converter developed in React using Redux while I studied at [Trybe](https://www.betrybe.com/).
+Expense control web application interface with a dynamic currency converter developed in React using Redux during my time studying at [Trybe](https://www.betrybe.com/).
 
 Deploy: [https://wallet-marllomartin.vercel.app/](https://wallet-marllomartin.vercel.app/).
 
